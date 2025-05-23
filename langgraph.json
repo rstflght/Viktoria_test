@@ -1,0 +1,6 @@
+{
+  "graphs": {
+    "default": "app:app"
+  },
+  "dependencies": ["# Placeholder to satisfy CLI"]
+}
